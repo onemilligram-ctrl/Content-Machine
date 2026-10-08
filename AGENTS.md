@@ -4,7 +4,7 @@ This repository supports four separate role sessions: researcher, writer, editor
 
 At the start of every session, read `PIPELINE.md`, then the assigned role's `.agents/skills/content-*/SKILL.md`. If no role has been assigned, ask which role to run. Perform only that role and stop after its handoff. Do not automatically invoke another role or spawn it.
 
-`PIPELINE.md` is the shared handoff for one active article. Preserve sections belonging to other roles. `VOICE.md` is the shared voice reference; never invent the user's examples. The README describes startup prompts and synchronization.
+`PIPELINE.md` is the shared handoff for one active article. Preserve sections belonging to other roles. `VOICE.md` is the shared voice reference; never invent the user's examples. If there are no voice references in Voice.md continue without them. The README describes startup prompts and synchronization.
 
 Use the existing checkout. Do not create a worktree unless the user requests one. Run only one role at a time for the active article. Separate cloud tasks have separate filesystem copies; synchronization must be explicit.
 

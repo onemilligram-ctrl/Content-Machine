@@ -30,7 +30,85 @@ Research verified: October 8, 2026.
 
 DRAFT
 
-[writer writes here]
+Use AI to cut drafting time, then put the recovered time toward client conversations that could lead to your next commission.
+
+A faster listing description doesn't put money in your account.
+The business question is what you do after the writing is finished.
+
+According to [NAR's September 2026 technology report](https://www.nar.realtor/newsroom/realtors-adopt-technology-to-save-time-and-improve-the-client-experience-nar-report-finds),
+75% of agents who use AI write listing descriptions with it,
+56% create social posts, and 52% draft emails or follow-up.
+Those numbers show how agents use AI, not whether they earn more.
+
+Time savings have more support. In a separate February 2026 RPR survey of 225 agents,
+68% reported saving at least an hour a week.
+[NAR's coverage of that survey](https://www.nar.realtor/news/real-estate-news/technology/youve-tried-ai-but-can-you-trust-it)
+says 71% named time savings as AI's leading benefit.
+
+Neither source establishes that AI increases commissions.
+To test whether it helps your business, connect one task to a client conversation
+and track what happens next.
+
+### Turn meeting notes into follow-up
+
+Here's a workflow to try after your next seller meeting.
+Suppose the seller wants comparable sales before deciding when to list.
+You promised to send them Thursday and call Friday.
+
+Give an AI tool your brokerage approves the notes needed for the task.
+Ask it to identify the seller's priorities, your commitments, and unanswered questions.
+Leave out confidential details the task doesn't require.
+
+Then ask for a short follow-up email.
+A useful instruction: "Use only these notes. Confirm what we discussed,
+what I promised to send, and when we'll speak again.
+Flag missing information separately instead of guessing."
+
+Check the draft against your notes before sending.
+Verify the dates, remove promises you didn't make, and adjust wording that doesn't sound like you.
+
+Put the commitments into your customer relationship management system, or CRM,
+with deadlines: prepare the comparable sales, send them Thursday, and call Friday.
+If the AI tool can't create those tasks, enter them yourself.
+
+Now reserve the time you saved for a specific conversation.
+Call a prospect whose last discussion ended without a next step,
+or a past client you planned to contact this week.
+Treat that time as an appointment in your calendar.
+
+### Check market summaries against the source
+
+Market preparation needs closer review.
+In the same RPR survey, 63% cited accuracy as a concern,
+and 47% worried about misinterpreting market data.
+
+For example, supply dated local data and ask AI to explain the figures in plain English.
+Require it to separate observations from possible explanations
+and flag anything the data doesn't establish.
+
+Compare each figure with the original source before discussing it with a client.
+Check the geography, date range, and property type.
+A broad market summary may not answer a seller's question about a specific home.
+
+### Measure the work and the result
+
+Run the follow-up workflow for two weeks.
+Record drafting time, review time, and whether each promised follow-up happened.
+Compare that with the time your usual process takes.
+
+Count corrections. Five minutes generating a draft plus fifteen minutes repairing it
+is twenty minutes of work.
+
+Track the conversations held during the recovered time and the appointments they produce.
+As those prospects move forward, record signed clients, closings,
+and commissions after tool costs.
+Keep those results separate from the time-saving calculation.
+
+Two weeks can show whether the routine saves time and helps you complete follow-up.
+It won't prove AI caused a sale.
+
+Choose one meeting this week. Complete the reviewed follow-up,
+schedule every commitment, and book a prospect call in the time you recover.
 
 EDITS
 
@@ -42,4 +120,4 @@ READY
 
 STATUS
 
-Current stage: BRIEFED
+Current stage: DRAFTED

@@ -112,7 +112,22 @@ schedule every commitment, and book a prospect call in the time you recover.
 
 EDITS
 
-[editor writes here]
+### Editorial review
+
+**Scope:** Reviewed for clarity, filler, repetition, and paragraph length. User authorized proceeding without voice examples; voice matching could not be assessed.
+
+**Paragraphs exceeding four explicit Markdown lines:** None. No paragraph-length cuts required.
+
+**Delete filler and repetition:**
+
+- Opening, second paragraph: "The business question is what you do after the writing is finished." Delete this sentence. The hook already tells the reader what to do with the recovered time.
+- Opening, paragraph immediately before "Turn meeting notes into follow-up": "Neither source establishes that AI increases commissions." Delete this sentence. The introduction already distinguishes adoption from earnings, and the two-week measurement limitation later preserves the caution about causation.
+- "Check market summaries against the source," first paragraph: "Market preparation needs closer review." Delete this sentence. It adds no specific guidance; the following accuracy figures and source-checking instructions establish the reason for review.
+- Final paragraph: "Choose one meeting this week. Complete the reviewed follow-up, schedule every commitment, and book a prospect call in the time you recover." Delete the entire paragraph. It summarizes steps already taught in "Turn meeting notes into follow-up" and adds no new action.
+
+**Where the reader stops learning:** The final paragraph begins "Choose one meeting this week." From this line onward, the draft repeats the workflow instead of adding information. End after "It won't prove AI caused a sale."
+
+**Verdict: REVISE.** Apply the deletions above. Preserve the draft's specific workflow, source qualifications, and measurement instructions.
 
 READY
 
@@ -120,4 +135,4 @@ READY
 
 STATUS
 
-Current stage: DRAFTED
+Current stage: EDITED

@@ -2,7 +2,7 @@ Content Pipeline
 
 NEXT UP
 
-- topic goes here
+- How realtors are using AI to help make more money.
 
 BRIEF
 

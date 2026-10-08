@@ -33,7 +33,6 @@ DRAFT
 Use AI to cut drafting time, then put the recovered time toward client conversations that could lead to your next commission.
 
 A faster listing description doesn't put money in your account.
-The business question is what you do after the writing is finished.
 
 According to [NAR's September 2026 technology report](https://www.nar.realtor/newsroom/realtors-adopt-technology-to-save-time-and-improve-the-client-experience-nar-report-finds),
 75% of agents who use AI write listing descriptions with it,
@@ -45,7 +44,6 @@ Time savings have more support. In a separate February 2026 RPR survey of 225 ag
 [NAR's coverage of that survey](https://www.nar.realtor/news/real-estate-news/technology/youve-tried-ai-but-can-you-trust-it)
 says 71% named time savings as AI's leading benefit.
 
-Neither source establishes that AI increases commissions.
 To test whether it helps your business, connect one task to a client conversation
 and track what happens next.
 
@@ -78,7 +76,6 @@ Treat that time as an appointment in your calendar.
 
 ### Check market summaries against the source
 
-Market preparation needs closer review.
 In the same RPR survey, 63% cited accuracy as a concern,
 and 47% worried about misinterpreting market data.
 
@@ -107,9 +104,6 @@ Keep those results separate from the time-saving calculation.
 Two weeks can show whether the routine saves time and helps you complete follow-up.
 It won't prove AI caused a sale.
 
-Choose one meeting this week. Complete the reviewed follow-up,
-schedule every commitment, and book a prospect call in the time you recover.
-
 EDITS
 
 ### Editorial review
@@ -135,4 +129,4 @@ READY
 
 STATUS
 
-Current stage: EDITED
+Current stage: APPROVED

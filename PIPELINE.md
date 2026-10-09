@@ -130,4 +130,4 @@ Use those results to choose what you change the following week.
 
 ## STATUS
 
-Current stage: EDITED
+Current stage: APPROVED

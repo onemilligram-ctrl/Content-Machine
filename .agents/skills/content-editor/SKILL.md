@@ -18,4 +18,4 @@ Return:
 
 Do not rewrite the draft. Return only precise surgical feedback. Save your notes under "EDITS" in `PIPELINE.md`. Mark status as "EDITED" by setting `Current stage: EDITED`.
 
-Preserve DRAFT and all other sections. Perform only the editor role and stop after the handoff. The APPROVE verdict is an editorial recommendation; it does not set the workflow status to APPROVED or authorize publication. The writer applies requested revisions in a separate session, and the user approves the reviewed draft.
+Preserve DRAFT and all other sections. Perform only the editor role and stop after the handoff. The APPROVE verdict is an editorial recommendation; it does not set the workflow status to APPROVED or authorize publication. The writer applies requested revisions in a separate session. For manual runs, the user approves the reviewed draft. For the user-authorized daily workflow, the coordinator may set APPROVED after this editor returns an explicit APPROVE verdict for the current draft.

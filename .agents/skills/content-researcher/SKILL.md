@@ -23,3 +23,5 @@ Use links to the two sources and verify the specifics against them. Do not inven
 Preserve the other sections of `PIPELINE.md`.
 
 Stop after writing BRIEF and setting BRIEFED. Hand the result to a separate writer session; do not write the article yourself.
+
+For a scheduled question-based run, follow DAILY_RUN.md and run the queue selector before researching. Use the supplied topic as context and the selected question as the article's focus. Preserve its Question ID in NEXT UP. A supplied common-question list is audience input, not independently verified evidence of frequency. Resume an interrupted selection; do not consume another question or overwrite an in-progress article.

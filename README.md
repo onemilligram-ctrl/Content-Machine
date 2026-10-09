@@ -35,7 +35,7 @@ Start a separate Codex task/session against this repository for each step. Paste
 
 ### Publisher
 
-> Act only as Content Publisher. Read AGENTS.md and .agents/skills/content-publisher/SKILL.md, then follow that skill. Read PIPELINE.md. Prepare READY from the approved copy for the platform I specify, set PUBLISHED when the package is complete, and stop after preparing it.
+> Act only as Content Publisher. Read AGENTS.md and .agents/skills/content-publisher/SKILL.md, then follow that skill. Read PIPELINE.md. Prepare READY from the approved copy for the platform I specify, set PUBLISH when the package is complete, and stop after preparing it.
 
 ## Handoffs between separate cloud tasks
 
@@ -45,12 +45,14 @@ After each role finishes, review its changes and authorize a commit and push to 
 
 ## Approval and publishing
 
-After EDITED, review the editor's feedback and verdict against DRAFT. To approve, tell the agent: “I approve the reviewed copy in DRAFT. Set the status to APPROVED.” Approval is a user decision, not a fifth agent role.
+After EDITED, review the editor's feedback and verdict against DRAFT. To approve, tell the agent: “I approve the reviewed copy in DRAFT. Set the status to APPROVED.” For manual runs, approval is a user decision. For daily automation, the user has authorized the coordinator to proceed on the editor’s explicit APPROVE verdict; see DAILY_RUN.md.
 
-The publisher prepares a package in READY and sets PUBLISHED when it is complete. The package includes the formatted article, two title options, a two-sentence preview description, and three hashtags when the platform uses them. Specify Substack, Ghost, Medium, or LinkedIn. Here PUBLISHED is the pipeline completion label, not confirmation of external posting. Actual posting requires a separate explicit instruction and usable access to the destination.
+The publisher prepares a package in READY and sets PUBLISH when it is complete. The package includes the formatted article, two title options, a two-sentence preview description, and three hashtags when the platform uses them. Specify Substack, Ghost, Medium, or LinkedIn. Here PUBLISH is the pipeline completion label, not confirmation of external posting. Actual posting requires a separate explicit instruction and usable access to the destination.
 
 For revisions, assign a new writer session to address the editor's feedback and return the status to DRAFTED, then run the editor again. Changed copy needs fresh approval.
 
 ## Starting the next article
+
+For an uploaded question list and daily four-role workflow, see [DAILY_RUN.md](DAILY_RUN.md). The queue chooses the first unused supplied question and tracks its usage in QUESTIONS.json. Requested timing is 7:00 a.m. America/Los_Angeles; scheduling has not been activated.
 
 After the publishing package is complete, archive the completed pipeline in a separate Markdown file before replacing the active topic or clearing its sections. Keep VOICE.md as the reusable reference. Never discard an unfinished article to start another one.

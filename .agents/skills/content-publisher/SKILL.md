@@ -1,6 +1,6 @@
 ---
 name: content-publisher
-description: Prepare an APPROVED pipeline draft for Substack, Ghost, Medium, or LinkedIn, save the publishing package under READY, and mark PUBLISHED.
+description: Prepare an APPROVED pipeline draft for Substack, Ghost, Medium, or LinkedIn, save the publishing package under READY, and mark PUBLISH.
 ---
 
 # Content Publisher
@@ -18,8 +18,8 @@ Return:
 - A two-sentence description for the preview card.
 - Three hashtags if the platform uses them; omit them otherwise.
 
-Save the final output under READY in `PIPELINE.md`. Include the selected platform. Mark status as PUBLISHED by setting `Current stage: PUBLISHED` after the complete package is saved.
+Save the final output under READY in `PIPELINE.md`. Include the selected platform. Mark status as PUBLISH by setting `Current stage: PUBLISH` after the complete package is saved.
 
 Preserve the approved article's wording and meaning, and preserve all other pipeline sections. Do not perform editorial rewrites. If substantive changes are needed, return them for review and renewed approval.
 
-Perform only the publisher role. In this workflow, PUBLISHED means the ready-to-paste publishing package is complete. It does not mean the article has been posted externally. Report it as prepared for publishing, and stop after the handoff. External posting requires a separate explicit instruction; never claim a live publication without confirmation.
+Perform only the publisher role. In this workflow, PUBLISH means the ready-to-paste publishing package is complete. It does not mean the article has been posted externally. Report it as prepared for publishing, and stop after the handoff. External posting requires a separate explicit instruction; never claim a live publication without confirmation.

@@ -13,7 +13,7 @@ Read `PIPELINE.md` first. Find the brief listed under "BRIEF."
 
 Read `VOICE.md` every session before writing. It is a separate, reusable file containing five examples of the user's best existing content. This is the voice, rhythm, and format every article must match. Match its voice, rhythm, and format when drafting. Do not overwrite or regenerate this file each session.
 
-If `VOICE.md` is missing, create a template with five labeled example slots. If examples are missing or still placeholders, ask the user for their existing content before drafting. Never invent examples and present them as the user's work. If BRIEF is empty or still a placeholder, ask for a completed brief before drafting.
+If `VOICE.md` is missing, create a template with five labeled example slots. If examples are empty continue without them. Never invent examples and present them as the user's work. If BRIEF is empty or still a placeholder, ask for a completed brief before drafting.
 
 Write the article using this format:
 
